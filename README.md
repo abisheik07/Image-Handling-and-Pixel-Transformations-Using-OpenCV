@@ -268,30 +268,30 @@ plt.axis("off")
  
 # Output:
 # Display the image using Matplotlib
-<img width="462" height="509" alt="image" src="https://github.com/user-attachments/assets/8222ea11-1eaa-4c68-8948-2707c44ffee5" />
+<img width="427" height="508" alt="Screenshot 2026-02-07 143227" src="https://github.com/user-attachments/assets/e8738b26-3a63-48d9-9814-98e4c464acb0" />
 
 
 # Draw a line
-<img width="444" height="522" alt="image" src="https://github.com/user-attachments/assets/bd888230-eb58-4d89-b959-0bb345b68542" />
+<img width="428" height="513" alt="Screenshot 2026-02-07 143244" src="https://github.com/user-attachments/assets/76a210d4-7ec8-449e-b8aa-69d85da822dc" />
 
 # HSV Image
-<img width="445" height="524" alt="image" src="https://github.com/user-attachments/assets/e78578fb-7d62-4a2c-bcf4-4bb65ba7ca1e" />
+<img width="429" height="513" alt="Screenshot 2026-02-07 143356" src="https://github.com/user-attachments/assets/78348c8d-5df5-40b1-9402-012de8159103" />
 
 
 # Grayscale Image
-<img width="451" height="514" alt="image" src="https://github.com/user-attachments/assets/061fdfc3-9308-4a37-8efd-6bf4f9b0a47a" />
+<img width="426" height="509" alt="Screenshot 2026-02-07 143410" src="https://github.com/user-attachments/assets/d2a3493e-1399-48fe-9483-4a9a9867fcc8" />
 
 
 # YCrCb Image
 
-<img width="691" height="263" alt="image" src="https://github.com/user-attachments/assets/53239587-6abf-4c1f-9b70-f05da0ebeadb" />
+<img width="430" height="509" alt="Screenshot 2026-02-07 143421" src="https://github.com/user-attachments/assets/25c53ee3-4494-48da-804a-bab1cecac9a3" />
 
 # Horizontal flip
-<img width="278" height="356" alt="image" src="https://github.com/user-attachments/assets/a9414d60-2162-4412-95fe-152dec74d630" />
+<img width="422" height="508" alt="image" src="https://github.com/user-attachments/assets/6283a2fb-7875-4b70-91f2-aeb9d8f7bea9" />
 
 
 # Vertical flip
-<img width="315" height="355" alt="image" src="https://github.com/user-attachments/assets/eda43411-bd62-40ae-bcde-daafbcadc63d" />
+<img width="408" height="490" alt="image" src="https://github.com/user-attachments/assets/2fdd1f96-183d-487f-912e-f3305d35f191" />
 
 ## Result:
 Thus, the images were read, displayed, adjustments were made, and bitwise operations were performed successfully using the Python program.
